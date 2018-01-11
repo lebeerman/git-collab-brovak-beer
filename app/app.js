@@ -15,3 +15,11 @@ const multiples = array =>
     return (total *= num);
   }, 1);
 multiples(numArray);
+
+var numbers = [1,2,3];
+function multiply (array){
+	total = 1;
+	array.forEach(number => total *= number);
+}
+
+multiply(numbers);
