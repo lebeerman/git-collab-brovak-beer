@@ -16,10 +16,13 @@ const multiples = array =>
   }, 1);
 multiples(numArray);
 
-var numbers = [1,2,3];
-function multiply (array){
-	total = 1;
-	array.forEach(number => total *= number);
+var numbers = [1, 2, 3];
+function multiply(array) {
+  total = 1;
+  array.forEach(number => (total *= number));
 }
-
+function sumArray(array) {
+  return array.reduce((accumulator, number) => number + accumulator);
+}
+sumArray(numbers);
 multiply(numbers);
