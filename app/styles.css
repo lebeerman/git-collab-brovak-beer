@@ -1,7 +1,7 @@
 header {
   display: flex;
   grid-template-columns: repeat(6, 1fr);
-  grid-gap: 10px;
+  grid-gap: 1000px;
   align-items: end;
   border-bottom: 0.33rem solid red;
 }
@@ -9,7 +9,7 @@ header {
 h1 {
   grid-column: 1/span 2;
   margin-left: 100rem;
-  color: blue;
+  color: red;
 }
 
 nav {
@@ -27,4 +27,7 @@ h3 {
 }
 p {
   color: darkgrey;
+  font-size: 10rem;
+  color: black;
+  font-size: 15rem;
 }
