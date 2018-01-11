@@ -3,7 +3,7 @@ header {
   grid-template-columns: repeat(6, 1fr);
   grid-gap: 10px;
   align-items: end;
-  border-bottom: .33rem solid red;
+  border-bottom: 0.33rem solid red;
 }
 
 h1 {
@@ -19,5 +19,12 @@ nav {
 nav a {
   text-decoration: none;
   color: darkgrey;
-  font-size: 10rem;
+  font-size: 15rem;
+}
+h3 {
+  font-style: oblique;
+  color: pink;
+}
+p {
+  color: darkgrey;
 }
