@@ -6,7 +6,7 @@ We are both collaborators on the same repo and will both commit changes.
 
 ### Task 2: Dan - You should create an array of objects. Each object should have a name and age.
 
-### Task 3: Brian -
+### Task 3: Brian - You should create a new directory. Move at least one file into that directory.
 
 ### Task 4: Dan -
 
