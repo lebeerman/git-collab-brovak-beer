@@ -10,8 +10,5 @@ const jsonArray = [
   }
 ];
 const numArray = [1, 2, 3, 4, 5];
-const multiples = array =>
-  array.reduce(num => {
-    return (total *= num);
-  }, 1);
-multiples(numArray);
+const reducer = (accumulator, currentValue) => accumulator + currentValue;
+console.log(numArray.reduce(reducer));
