@@ -8,9 +8,9 @@ We are both collaborators on the same repo and will both commit changes.
 
 ### Task 3: Brian - You should create a new directory. Move at least one file into that directory.
 
-### Task 4: Dan - You should create an array of numbers in a Javascript file, if there isn't one. Write a funciton that multiplies them togehter.
+### Task 4: Dan - You should create an array of numbers in a Javascript file, if there isn't one. Write a function that multiplies them togehter.
 
-### Task 5: Brian -
+### Task 5: Brian - You should edit five CSS properties.
 
 ### Task 6: Dan -
 
