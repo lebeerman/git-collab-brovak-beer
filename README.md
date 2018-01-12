@@ -18,6 +18,6 @@ We are both collaborators on the same repo and will both commit changes.
 
 ### Task 8: Dan - You should create an array of numbers in a Javascript file, if there isn't one. Write a function that generates a sum.
 
-### Task 9: Brian -
+### Task 9: Brian - Slack your partner. You should both edit five CSS properties.
 
-### Task 10: Dan -
+### Task 10: Dan - You should remove a file other than index.html.
